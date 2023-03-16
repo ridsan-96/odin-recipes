@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #07e0c3;
+}
+
+.main-title {
+    font-size: 50px;
+    font-weight: bold;
+    color: #a6ff00;
+}
+
+.images {
+    height: 400px;
+    width: 700px;
+}
+
+.title-list {
+    font-size: 30px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+/* untuk sementara styling ini tidak dipkai dulu
+.list, 
+.list-child {
+    font-size: 20px;
+} 
+*/

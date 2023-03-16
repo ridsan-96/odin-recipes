@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    background-color: #07e0c3;
+}
+
+.para {
+    font-size: 20px;
+}
+
+.main-title {
+    font-size: 50px;
+    font-weight: bold;
+    color: #a6ff00;
+}
+
+.images {
+    height: 350px;
+    width: 600px;
+}
+
+.title-list {
+    font-size: 30px;
+}
+
+.list, 
+.list-child {
+    font-size: 20px;
+}
